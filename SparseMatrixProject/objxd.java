@@ -1,6 +1,6 @@
 import unit4.collectionsLib.Node;
 import java.util.Scanner;
-public class sex
+public class objxd
 {
 
 	/**
